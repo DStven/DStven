@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hola, soy Steven
 
-<!--
-**DStven/DStven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Tecnología • Linux • Desarrollo Web • Inteligencia Artificial
 
-Here are some ideas to get you started:
+Me gusta aprender construyendo proyectos reales y explorar nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este perfil comparto los proyectos que desarrollo, documentando el proceso, las decisiones técnicas y el aprendizaje obtenido durante cada uno.
+
+---
+
+## 🚀 Actualmente
+
+- 🌱 Aprendiendo nuevas tecnologías relacionadas con desarrollo web y Linux.
+- 🐧 Trabajando en futuras ideas para **Aurex Linux**.
+- 📦 Mejorando continuamente el proyecto **Tierra Querida**.
+
+---
+
+## 🛠️ Tecnologías e intereses
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mysql,git,github,linux,vscode" />
+
+</p>
+
+---
+
+## 📌 Proyectos destacados
+
+- 📦 **Tierra Querida**  
+  Sistema de gestión de inventario desarrollado con Angular, Node.js, Express y MySQL.
+
+- 🐧 **Aurex Linux** *(Próximamente)*  
+  Proyecto personal basado en Linux.
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DStven&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DStven&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/DStven
+
+---
+
+⭐ Gracias por visitar mi perfil.
